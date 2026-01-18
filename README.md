@@ -8,7 +8,7 @@ I'm a CS student at Palacký University Olomouc, focused on building high-perfor
 ### 🚀 Key Projects
 
 - **[NES Emulator](https://github.com/adiomhts/Cython-NES-emulator)** (Bachelor's Thesis) - Developing a 6502 CPU, PPU, and APU emulator using Python and Cython for performance.
-- **[Silent Cry Official Website](https://github.com/adiomhts/SilentCry_Web)** - A multilingual, responsive web application built with Flask, Jinja2, and Bootstrap.
+- **[Silent Cry Official Website](https://github.com/adiomhts/SilentCry_Web)** - A multilingual, responsive web application built with Flask, Jinja2.
 
 ---
 
